@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+}
+header{
+    background-color: antiquewhite;
+    display: grid;
+
+}
+header img{
+    width: 100px;
+}
+header h1{
+    position: absolute;
+    left: 45%;
+}
+main{
+    background-color: whitesmoke;
+}
+footer{
+    background-color: bisque;
+}
