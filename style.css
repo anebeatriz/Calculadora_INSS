@@ -10,7 +10,7 @@ body {
     color: #333;
 }
 header {
-    background: #ff9900;
+    background-image: linear-gradient(30deg, yellow, green, blue);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -62,14 +62,14 @@ th, td {
 }
 
 th {
-    background-color: #ff9900;
+    background-color: #0051ff;
     color: white;
 }
 a{
     display: flex;
     align-items: center;
     text-decoration-line: none;
-    background-color: #d88811;
+    background-color: #1146d8;
     color: white; 
     border: none;
     padding: 10px;
